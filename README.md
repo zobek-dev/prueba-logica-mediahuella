@@ -6,13 +6,15 @@ La prueba contiene test automatizados en jest para revisar su código
 # Como configurar
 
 1. Instalar los paquetes con: 
-  ´´´
-  npm install
-  ´´´
+```
+npm install
+```
+
 2. Para ejecutar las pruebas automatizadas se debe ejecutar el siguiente comando:
 
-  ´´´
-  npm run dev
-  ´´´ 
+```
+npm run dev
+```
+
 
 Esperamos que te diviertas resolviendo el desafío y te deseamos mucha suerte.
