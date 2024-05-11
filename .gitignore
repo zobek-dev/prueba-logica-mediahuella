@@ -1,0 +1,8 @@
+#node modules
+node_modules
+
+#main solucion
+main.solucion.js
+
+#npm files
+package-lock.json
